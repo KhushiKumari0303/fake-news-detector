@@ -32,4 +32,4 @@ if st.button("Predict"):
     vectorized = vectorizer.transform([cleaned])
     prediction = model.predict(vectorized)[0]
     label = "REAL" if prediction == 1 else "FAKE"
-    st.markdown(f"### 🔍 Prediction: **{label}**")
+    st.markdown(f"Prediction: **{label}**")
