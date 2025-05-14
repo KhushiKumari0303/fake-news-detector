@@ -36,13 +36,13 @@ The dataset should be a CSV file with the following structure:
 | "Aliens found under the Pentagon"   | FAKE  |
 
 You can download a dataset from [Kaggle: Fake and Real News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
-_______________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________
 🚀 Run Locally
 
 ### Development Mode
 
 # Clone the repository
-git clone https://github.com/your-username/fake-news-detector.git
+git clone https://github.com/KhushiKumari0303/fake-news-detector.git
 cd fake-news-detector
 
 # Install dependencies
